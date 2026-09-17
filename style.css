@@ -366,6 +366,10 @@ body {
   color: #64748b;
 }
 
+button {
+background-color: #52b788; /* corrigido */
+}
+
 /* --- Responsividade (Dispositivos Móveis) --- */
 @media (max-width: 768px) {
   .nav-links {
