@@ -366,6 +366,15 @@ body {
   color: #64748b;
 }
 
+
+section {
+background-color: #d8f3dc;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+}
+
+
 /* --- Responsividade (Dispositivos Móveis) --- */
 @media (max-width: 768px) {
   .nav-links {
